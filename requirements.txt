@@ -2,7 +2,7 @@ voila
 scipy
 imutils
 numpy
-opencv
+opencv-python==4.0.1
 ipywidgets
 io
 PIL
