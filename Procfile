@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser detect_measure_inclusion.ipynb
+web: voila --debug --port=$PORT --no-browser detect_measure_inclusion.ipynb
