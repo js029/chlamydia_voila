@@ -37,6 +37,7 @@ nest-asyncio
 notebook
 numpy
 olefile==0.46
+python-opencv
 packaging
 pandocfilters
 parso
