@@ -4,4 +4,3 @@ imutils
 numpy
 opencv-python
 ipywidgets
-Pillow
