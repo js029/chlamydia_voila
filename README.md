@@ -15,6 +15,7 @@ Your browser should automatically open a tab with the tool.
 ## Use
 
 To use the tool you simply need to upload your images and click `Measure chlamydia!` button.
+You can try it out using the pictures in `sample-images`.
 
 Take note of the following:
 - the tool assumes that there will be a scale bar in the top left corner and will use it's width as a reference for calculating areas. You can change this scale using the `Width` parameter
