@@ -4,4 +4,4 @@ numpy==1.26
 scipy==1.11
 imutils==0.5.4 
 ipywidgets==8.0.6 
-Pillow==9.5.0 
+Pillow==10.1
